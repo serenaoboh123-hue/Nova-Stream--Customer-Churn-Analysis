@@ -139,5 +139,6 @@ The biggest opportunity for NovaStream is to move from reactive churn management
 ---
 
 ## Dashboard Preview
+![Novastream Churn Analysis Dashboard](capture.png)
 
 NovaStream Churn Analysis Dashboard
